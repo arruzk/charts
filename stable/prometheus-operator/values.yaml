@@ -10,6 +10,10 @@ nameOverride: ""
 ##
 fullnameOverride: ""
 
+## Override the deployment namespace
+##
+namespaceOverride: ""
+
 ## Labels to apply to all resources
 ##
 commonLabels: {}
